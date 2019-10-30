@@ -45,18 +45,19 @@ var buyProduct = function () {
         connection.query("SELECT price, product_name, stock_quantity FROM products WHERE id = ?", [purchase.productChoice], function(err, res) {
             var amountSold = purchase.quantityChoice;
             var total = res[0].price * amountSold;
-            var itemsRemaining = (res[0].quantityChoice - amountSold);
+            var itemsRemaining = parseInt(res[0].stock_quantity - amountSold);
             if (err) {
                 return console.log("err");
 
             }
 
-            if (res[0].quantityChoice < purchase.quantityChoice) {
+            if (res[0].stock_quantity < purchase.quantityChoice) {
                 return console.log("Sorry we do not have enough of that item");
             }
-connection.query ("UPDATE products SET quantity = ? WHERE id = ?",[itemsRemaining, purchase.productChoice]);
+connection.query ("UPDATE products SET stock_quantity = ? WHERE id = ?",[itemsRemaining, purchase.productChoice]);
 console.log ("Your order has been placed");
 console.log ("Your total is $" + total);
+console.log ("Quantity Remaining:" + itemsRemaining);
 
 connection.end();
 
