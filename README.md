@@ -34,7 +34,7 @@ This screenshot demonsrates that if a user elects to purchase more items than ar
 
 ## Screenshot 5
 
-![Image1](bamazon/Images/Image 1.png)
-Format: ![Alt Text](url)
+![Image1](https://github.com/ahin413/bamazon/blob/master/Images/Untitled.png)
+
 
 This screenshot demonstrates how once the user has made a purchase, the remiaing inventory is updated for them to see in the console log.  THe remaining inventory is also being update in the MySQL data base, as you can see once the program is run again, the inventory reflects the previous purchase.
