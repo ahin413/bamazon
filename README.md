@@ -13,15 +13,15 @@ Then the user is prompted enter the item ID of the product they would like to pu
 
 ## Screenshot 2
 
-![Image1](/bamazon/Images/Image 2.png)
-Format: ![Alt Text](url)
+![Image1](https://github.com/ahin413/bamazon/blob/master/Images/Image%202.png)
+
 
 This screenshot demonstartes how once the user selects a product to purchase, they will be prompted to select a quantity.  This is also done with the use of inquirer.
 
 ## Screenshot 3
 
-![Image1](/bamazon/Images/Image 3.png)
-Format: ![Alt Text](url)
+![Image1](https://github.com/ahin413/bamazon/blob/master/Images/Image%302.png)
+
 
 This screenshot demonstartes how once the user selects a product and a quantity, it will let them know that their purchase is complete, the total for the items, and how many of that item are still in stock.
 
