@@ -4,22 +4,22 @@ Bamazon is a CLI application using Node.js and MySQL.  It is an app created to s
 
 ## Screenshots to show functionality
 
-![Image1](bamazon/Images/Image 1.png)
-Format: ![Alt Text](url)
+![Image1](/bamazon/Images/Image 1.png?raw=true)
+
 
 This screenshot demonstrates how when the user runs bamazonCustomer.js, they are presented with a list of items for sale, and various information about the item, such as price and department.
 Then the user is prompted enter the item ID of the product they would like to purchase.  This prompt is done with the use of inquirer.
 
 ## Screenshot 2
 
-![Image1](bamazon/Images/Image 1.png)
+![Image1](/bamazon/Images/Image 2.png)
 Format: ![Alt Text](url)
 
 This screenshot demonstartes how once the user selects a product to purchase, they will be prompted to select a quantity.  This is also done with the use of inquirer.
 
 ## Screenshot 3
 
-![Image1](bamazon/Images/Image 1.png)
+![Image1](/bamazon/Images/Image 3.png)
 Format: ![Alt Text](url)
 
 This screenshot demonstartes how once the user selects a product and a quantity, it will let them know that their purchase is complete, the total for the items, and how many of that item are still in stock.
