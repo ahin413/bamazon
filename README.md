@@ -27,8 +27,8 @@ This screenshot demonstartes how once the user selects a product and a quantity,
 
 ## Screenshot 4
 
-![Image1](bamazon/Images/Image 1.png)
-Format: ![Alt Text](url)
+![Image1](https://github.com/ahin413/bamazon/blob/master/Images/Image%204%20copy.png)
+
 
 This screenshot demonsrates that if a user elects to purchase more items than are in stock, they weill be instructed that there is not enough of the item for them to purchase.
 
