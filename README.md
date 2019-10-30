@@ -20,7 +20,7 @@ This screenshot demonstartes how once the user selects a product to purchase, th
 
 ## Screenshot 3
 
-![Image1](https://github.com/ahin413/bamazon/blob/master/Images/Image%302.png)
+![Image1](https://github.com/ahin413/bamazon/blob/master/Images/Image%203.png)
 
 
 This screenshot demonstartes how once the user selects a product and a quantity, it will let them know that their purchase is complete, the total for the items, and how many of that item are still in stock.
