@@ -4,7 +4,8 @@ Bamazon is a CLI application using Node.js and MySQL.  It is an app created to s
 
 ## Screenshots to show functionality
 
-![Image1](/bamazon/Images/Image 1.png?raw=true)
+![Image1](https://github.com/ahin413/bamazon/blob/master/Images/Image%201.png)
+
 
 
 This screenshot demonstrates how when the user runs bamazonCustomer.js, they are presented with a list of items for sale, and various information about the item, such as price and department.
