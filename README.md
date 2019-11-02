@@ -30,11 +30,11 @@ This screenshot demonstartes how once the user selects a product and a quantity,
 ![Image1](https://github.com/ahin413/bamazon/blob/master/Images/Image%204%20copy.png)
 
 
-This screenshot demonsrates that if a user elects to purchase more items than are in stock, they weill be instructed that there is not enough of the item for them to purchase.
+This screenshot demonsrates that if a user elects to purchase more items than are in stock, they will be instructed that there is not enough of the item for them to purchase.
 
 ## Screenshot 5
 
 ![Image1](https://github.com/ahin413/bamazon/blob/master/Images/Untitled.png)
 
 
-This screenshot demonstrates how once the user has made a purchase, the remiaing inventory is updated for them to see in the console log.  THe remaining inventory is also being update in the MySQL data base, as you can see once the program is run again, the inventory reflects the previous purchase.
+This screenshot demonstrates how once the user has made a purchase, the remiaing inventory is updated for them to see in the console log.  The remaining inventory is also being updated in the MySQL data base, as you can see once the program is run again, the inventory reflects the previous purchase.
